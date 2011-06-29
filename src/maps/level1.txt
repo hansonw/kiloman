@@ -1,0 +1,142 @@
+area1
+KHHHHHHH[]HHHHHHHHHK
+I                  J
+I                  J
+I                  J
+I                  J
+I        <>        J
+I  0               J
+I  <>              J
+I                 0J
+I      0  <------->L
+I      X            
+I    X              
+I   X               
+IS   0              
+KGGGGGGGGGGGGGGGGGGG
+,area2,,
+bg = bg1.png
+G = walldown.png
+H = wallup.png
+I = wallleft.png
+J = wallright.png
+K = wall.png
+L = walldl.png
+X = block.png
+< = blockleft.png
+- = blockmid.png
+> = blockright.png
+[ = thing1.png
+] = thing2.png
+0 = Robot
+9 = Boss
+---
+area2
+KHH[]HHHHHHHHHH[]HHK
+I                  J
+I                  J
+I                  J
+I                  J
+I                  J
+I                  J
+I                  J
+I                  J
+O                  J
+            1      J
+        1<--->     J
+     <--->         J
+            1   1  J
+GGGGGGGGGGGGM   NGGK
+area1,,,area3
+bg = bg1.png
+G = walldown.png
+H = wallup.png
+I = wallleft.png
+J = wallright.png
+K = wall.png
+L = walldl.png
+M = wallur.png
+N = wallul.png
+O = walldr.png
+X = block.png
+< = blockleft.png
+- = blockmid.png
+> = blockright.png
+[ = thing1.png
+] = thing2.png
+0 = Robot
+1 = LaserRobot
+---
+area3
+KHHHH[]HHHHHO   LHHK
+I                  J
+I                  J
+I         0        J
+I         NM<----->J
+I         JI2      J
+I         JI       J
+I        0JI       J
+I  <----->LO       J
+I                  J
+I           1      L
+I<------------->    
+I                   
+I1    1             
+KGGGGGGGGGGGGGGGGGGG
+,area4,area2,
+bg = bg1.png
+G = walldown.png
+H = wallup.png
+I = wallleft.png
+J = wallright.png
+K = wall.png
+L = walldl.png
+M = wallur.png
+N = wallul.png
+O = walldr.png
+X = block.png
+< = blockleft.png
+- = blockmid.png
+> = blockright.png
+[ = thing1.png
+] = thing2.png
+0 = Robot
+1 = LaserRobot
+2 = CeilingRobot
+---
+area4
+KHHHH[]HHHHHHHHHHHHK
+I                  J
+I                  J
+I                  J
+I   X        9     J
+I                  J
+I     X            J
+I                  J
+I   X              J
+I                  J
+O     X            J
+                   J
+    X              J
+                   J
+GGGGGGGGGGGGGGGGGGGK
+,,,
+bg = bg1.png
+G = walldown.png
+H = wallup.png
+I = wallleft.png
+J = wallright.png
+K = wall.png
+L = walldl.png
+M = wallur.png
+N = wallul.png
+O = walldr.png
+X = block.png
+< = blockleft.png
+- = blockmid.png
+> = blockright.png
+[ = thing1.png
+] = thing2.png
+0 = Robot
+9 = Boss
+---

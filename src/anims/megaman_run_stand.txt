@@ -1,0 +1,5 @@
+megaman/runstand.png
+6
+34 40
+1, 43
+42, 34

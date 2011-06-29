@@ -1,0 +1,99 @@
+-------------------------------------
+           KiloMan v1.01
+-------------------------------------
+
+1. Introduction
+---------------
+
+You are Kilo Man, a sentient robot with extraordinary fighting powers.
+Armed with your handy arm blaster, you must destroy the forces of the
+evil Dr. Sly. Fight through each of the levels, and destroy all of the
+mighty henchmen that lie awaiting at the end.
+
+2. Controls
+-----------
+
+Move left/right		Left/Right arrow keys
+Jump			Up arrow key
+Shoot			Space
+
+3. Weapons
+----------
+
+You start off with only weapon - the pea shooter. It does 1 damage to each enemy.
+
+Later, you may acquire upgrade your shots with depleted uranium -
+allowing you to do 2 damage per shot.
+
+4. Enemies
+----------
+
+A quick list of the basic enemies in the game:
+
+*********
+*Level 1*
+*********
+
+Clam-shell Robot
+----------------
+HP:	3
+Attack:	2
+
+Your basic henchman, the clam-shell robot is only vulnerable when his
+shell is open. He lacks any projectile attacks however...
+
+Laser Clam-shell Robot
+----------------------
+HP:	2
+Attack: 1
+SAttack:3
+
+The Clam-shell robot has become modified to have a laser beam!
+It is a bit weaker, though its laser is quite strong.
+
+Ceiling Robot
+-------------
+HP: 	1
+Attack: 5
+
+A static security measure, the ceiling robot is only able to move
+back and forth on a ceiling. Although it has a very strong attack,
+Kilo Man can kill it with a single shot -- that is, if he can hit him at all.
+
+The BOSS
+--------
+HP:	20
+Attack:	5 regular, bullet 2
+
+The massive boss, his armor is only vulnerable when his ports are open to shoot
+at you. Watch out for his massive bullet storm, though!
+
+*********
+*Level 2*
+*********
+
+Grasshopper
+-----------
+HP: 	3
+Attack:	2
+
+A robot who likes grassland environments, the hopper possesses some
+intelligence and is able to follow Kilo Man around. It can jump
+great heights, and may be difficult to hit while in the air.
+
+Helicopter
+----------
+HP:	5
+Attack:	5
+
+A very formidable enemy, the airborne Helicopter is able to follow
+Kilo Man around without any regard for walls. Take him out quickly,
+before he gets close to you! (The upgraded shot may help)
+
+The BOSS - again
+----------------
+HP:	20
+Attack: 5 regular, bullet 3
+
+He's come again for vengeance! This time, see if you can kill him more
+easily with your powered up gun...

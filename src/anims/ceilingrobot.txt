@@ -1,0 +1,5 @@
+ceilingrobot.png
+60
+27 27
+0, 28
+27, 23

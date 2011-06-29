@@ -1,0 +1,5 @@
+projectiles/megaman_ultra.png
+2
+9 19
+42
+9

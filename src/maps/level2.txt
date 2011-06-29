@@ -1,0 +1,164 @@
+area1
+                    
+                    
+                    
+                    
+                    
+                    
+          2         
+                    
+               2    
+                    
+                    
+                    
+S        1   1   1  
+00000000000000000000
+AAAAAAAAAAAAAAAAAAAA
+,area2,,
+bg = sky.png
+A = ground.png
+0 = Grass
+1 = Hopper
+2 = Helicopter
+---
+area2
+                    
+                    
+       2           2
+                    
+                     
+                    
+           1        
+                    
+         <-->       
+                    
+                    
+                    
+            1   1   
+00000000000000000  N
+AAAAAAAAAAAAAAAAANGK
+area1,area3,,
+bg = sky.png
+A = ground.png
+G = walldown.png
+H = wallup.png
+I = wallleft.png
+J = wallright.png
+K = wall.png
+L = walldl.png
+M = wallur.png
+N = wallul.png
+O = walldr.png
+X = block.png
+< = blockleft.png
+- = blockmid.png
+> = blockright.png
+0 = Grass
+1 = Hopper
+2 = Helicopter
+---
+area3
+                    
+                    
+                    
+                    
+                    
+                    
+             2  2  2
+                    
+             2  2  2
+                    
+  NM                
+ NKI                
+NKKI               
+KKKI  00000000000000
+KKKKGMAAAAAAAAAAAAAA
+area2,area4,,
+bg = sky.png
+A = ground.png
+G = walldown.png
+H = wallup.png
+I = wallleft.png
+J = wallright.png
+K = wall.png
+L = walldl.png
+M = wallur.png
+N = wallul.png
+O = walldr.png
+< = blockleft.png
+- = blockmid.png
+> = blockright.png
+0 = Grass
+1 = Hopper
+2 = Helicopter
+---
+area4
+            <------>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+           9        
+                    
+                     
+                    
+00000000000000000000
+AAAAAAAAAAAAAAAAAAAA
+,area5,,
+bg = sky.png
+A = ground.png
+G = walldown.png
+H = wallup.png
+I = wallleft.png
+J = wallright.png
+K = wall.png
+L = walldl.png
+M = wallur.png
+N = wallul.png
+O = walldr.png
+< = blockleft.png
+- = blockmid.png
+> = blockright.png
+0 = Grass
+1 = Hopper
+2 = Helicopter
+9 = Boss
+---
+area5
+            <------>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                     
+                    
+00000000000000000000
+AAAAAAAAAAAAAAAAAAAA
+,area5,,
+bg = sky.png
+A = ground.png
+G = walldown.png
+H = wallup.png
+I = wallleft.png
+J = wallright.png
+K = wall.png
+L = walldl.png
+M = wallur.png
+N = wallul.png
+O = walldr.png
+< = blockleft.png
+- = blockmid.png
+> = blockright.png
+0 = Grass
+1 = Hopper
+2 = Helicopter

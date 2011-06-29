@@ -1,0 +1,5 @@
+projectiles/megaman_explode.png
+2
+16 16
+0, 16, 32
+16, 16, 16

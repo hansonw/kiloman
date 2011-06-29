@@ -1,0 +1,5 @@
+megaman/midair.png
+1
+34 40
+1
+30
